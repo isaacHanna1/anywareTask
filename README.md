@@ -1,4 +1,4 @@
-i use elcipse to code 
+i use eclipse to code 
 and mysql database called it "studentmangement" 
 
 note
